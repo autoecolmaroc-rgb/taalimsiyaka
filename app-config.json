@@ -1,0 +1,8 @@
+{
+  "configVersion": 1,
+  "maintenanceMode": false,
+  "contentCatalogUrl": "https://raw.githubusercontent.com/autoecolmaroc-rgb/taalimsiyaka/main/series-catalog.json",
+  "defaultQuestionTimeSeconds": 30,
+  "maximumVideoDurationSeconds": 20,
+  "seriesDownloadEnabled": true
+}

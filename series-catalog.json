@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "series": [
+    {
+      "id": "series-001",
+      "title": "السلسلة رقم 1",
+      "questionCount": 40,
+      "orderIndex": 1,
+      "isPublished": true,
+      "contentVersion": 1,
+      "estimatedDownloadBytes": 0,
+      "dataUrl": "https://raw.githubusercontent.com/autoecolmaroc-rgb/taalimsiyaka/main/series-001.json"
+    }
+  ]
+}
